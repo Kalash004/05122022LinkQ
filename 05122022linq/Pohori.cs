@@ -36,16 +36,15 @@ namespace _05122022linq
                 returner_name.Add(h2[0]);
                 Console.WriteLine(h2[0]);
                 ss = h2[1].Replace("m", "");
-                Console.WriteLine(ss);
                 ss = ss.Replace(")", "");
-                Console.WriteLine(ss);
                 returner_height.Add(ss);
                 Console.WriteLine(ss);
             }
-            for (int i = 0; i <= returner_height.Count; i++)
+            for (int i = 0; i < returner_name.Count; i++)
             {
                 Console.WriteLine(returner_name[i] + ":" + returner_height[i]);
-                Hora h = new Hora(returner_name[i], int.Parse(returner_height[i]));
+                Hora h = new Hora(returner_name[i].Replace(" ",""), int.Parse(returner_height[i].Replace(" ","")));
+                pohori.Add(h);
             }
             return true;
         }
