@@ -1,0 +1,15 @@
+M:\csharp\Middle\05122022linq\05122022linq\bin\Debug\net6.0\05122022linq.exe
+M:\csharp\Middle\05122022linq\05122022linq\bin\Debug\net6.0\05122022linq.deps.json
+M:\csharp\Middle\05122022linq\05122022linq\bin\Debug\net6.0\05122022linq.runtimeconfig.json
+M:\csharp\Middle\05122022linq\05122022linq\bin\Debug\net6.0\05122022linq.dll
+M:\csharp\Middle\05122022linq\05122022linq\bin\Debug\net6.0\05122022linq.pdb
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.csproj.AssemblyReference.cache
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.GeneratedMSBuildEditorConfig.editorconfig
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.AssemblyInfoInputs.cache
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.AssemblyInfo.cs
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.csproj.CoreCompileInputs.cache
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.dll
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\refint\05122022linq.dll
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.pdb
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\05122022linq.genruntimeconfig.cache
+M:\csharp\Middle\05122022linq\05122022linq\obj\Debug\net6.0\ref\05122022linq.dll
